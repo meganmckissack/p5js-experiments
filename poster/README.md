@@ -1,1 +1,1 @@
-experiment to create a posting with only shapes, no text
+experiment to create a poster with only shapes, no text
